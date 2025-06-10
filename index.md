@@ -8,9 +8,9 @@ nav_order: 1
 
 # 👋 Hi, I am Davies Ochieng'
 
-**Cybersecurity | Ethical Hacking | InfoSec Enthusiast**
+**Telecommunincations and Information Engineer | Cybersecurity**
 
-> _“Securing systems one challenge at a time.”_
+
 
 Welcome to my digital portfolio. Explore my:
 
