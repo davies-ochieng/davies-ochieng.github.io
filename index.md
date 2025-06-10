@@ -1,10 +1,10 @@
 ---
 layout: home
 title: "Welcome"
+author_profile: true
 nav_order: 1
 ---
 
-![Profile Photo](assets/profile.jpg)
 
 # 👋 Hi, I am Davies Ochieng'
 
