@@ -73,10 +73,10 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://linkedin/daviesochieng.com/"
+      url: "www.linked/in/daviesochieng"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github/davies-ochieng.com/"
+      url: "https://github.com/davies-ochieng"
 
 defaults:
   # _posts
