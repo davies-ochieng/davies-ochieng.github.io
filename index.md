@@ -1,7 +1,20 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
-author_profile: true
+title: "Welcome"
+nav_order: 1
 ---
+
+![Profile Photo](assets/profile.jpg)
+
+# 👋 Hi, I am Davies Ochieng'
+
+**Cybersecurity | Ethical Hacking | InfoSec Enthusiast**
+
+> _“Securing systems one challenge at a time.”_
+
+Welcome to my digital portfolio. Explore my:
+
+- [Resume](_pages/resume.md)
+- [Projects](_pages/projects.md)
+- [Lab Challenges](_pages/lab-challenges.md)
+- [Contact Info](_pages/contact.md)
