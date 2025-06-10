@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Davies Ochieng"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo.png"
   bio    : "Tech Enthusiast"
   links:
     - label: "LinkedIn"
