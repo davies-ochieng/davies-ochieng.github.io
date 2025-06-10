@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Davies Ochieng"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Tech Enthusiast"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
