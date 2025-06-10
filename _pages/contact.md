@@ -1,13 +1,8 @@
 ---
-title: "Posts by Contact"
 layout: categories
-permalink: /contact/
-author_profile: true
----
----
-layout: page
 title: "Contact"
 permalink: /contact/
+author_profile: true
 nav_order: 6
 ---
 
