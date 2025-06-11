@@ -2,7 +2,7 @@
 layout: categories
 title: "Resume"
 permalink: /resume/
-author-profile: true
+author_profile: true
 nav_order: 3
 ---
 
