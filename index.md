@@ -16,5 +16,5 @@ Welcome to my digital portfolio. Explore my:
 
 - [Resume](_pages/resume.md)
 - [Projects](_pages/projects.md)
-- [Lab Challenges](_pages/lab-challenges.md)
+- [Lab Challenges](_pages/labchallenges.md)
 - [Contact Info](_pages/contact.md)
