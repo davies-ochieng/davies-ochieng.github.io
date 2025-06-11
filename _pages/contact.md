@@ -1,5 +1,6 @@
 ---
 layout: categories
+title: "Contact"
 permalink: /contact/
 author_profile: true
 nav_order: 6
