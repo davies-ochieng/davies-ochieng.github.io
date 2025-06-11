@@ -1,5 +1,6 @@
 ---
 layout: categories
+title: "Lab Challenges"
 permalink: /labchallenges/
 author_profile: true
 nav_order: 4
