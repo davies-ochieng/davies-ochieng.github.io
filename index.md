@@ -14,7 +14,7 @@ nav_order: 1
 
 Welcome to my digital portfolio. Explore my:
 
-- [Resume](assets/resume.md)
+- [Resume](_pages/resume.md)
 - [Projects](_pages/projects.md)
 - [Lab Challenges](_pages/labchallenges.md)
 - [Contact Info](_pages/contact.md)
