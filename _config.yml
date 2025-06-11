@@ -73,7 +73,7 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-twitter-square"
-      url: "www.linkedin/in/daviesochieng"
+      url: "https://linkedin.com/in/daviesochieng"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/davies-ochieng"
