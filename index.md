@@ -8,7 +8,7 @@ nav_order: 1
 
 # 👋 Hi, I am Davies Ochieng'
 
-**Telecommunincations and Information Engineer | Cybersecurity**
+**Telecommunications and Information Engineer | Cybersecurity**
 
 
 
