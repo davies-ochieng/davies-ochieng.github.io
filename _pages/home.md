@@ -1,6 +1,5 @@
 ---
 layout: categories
-title: "Home"
 permalink: /home/
 nav_order: 2
 ---
