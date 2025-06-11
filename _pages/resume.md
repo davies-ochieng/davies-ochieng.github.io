@@ -10,7 +10,7 @@ nav_order: 3
 
 **BSc. Telecommunications & Information Engineering**  
 _Ambitious and technically inclined, with a strong foundation in telecommunications, problem-solving, and cybersecurity._  
-📞 +254 792 656 568 | [LinkedIn](https://linkedin.com/in/daviesochieng)
+
 
 ---
 
