@@ -6,4 +6,6 @@ layout: home
 author_profile: true
 ---
 
-Welcome to Awesomeness
+Welcome to my Portfolio
+
+Feel free to check around in the navigation bar to know more about my professional journey.
