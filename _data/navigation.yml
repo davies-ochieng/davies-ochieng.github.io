@@ -1,9 +1,9 @@
 main:
   - title: "Presentations"
     url: /presentations/
+  - title: "Certifications"
+    url: /certifications/
   - title: "Projects"
     url: /projects/
-#  - title: "Tags"
-#    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: "Contact"
+    url: /contact/
