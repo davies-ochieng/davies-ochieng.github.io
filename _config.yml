@@ -78,7 +78,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/daviesochieng"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
