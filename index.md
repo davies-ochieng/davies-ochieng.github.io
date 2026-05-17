@@ -1,11 +1,11 @@
 ---
 layout: single
 author_profile: true
-title: "Davies Ochieng"
+title: ""
 classes: wide
 ---
 
-<div style="margin-top: 2rem;">
+<div align="center" style="margin-top: 2rem;">
   <h1>
     <span id="typing"></span>
     <span class="cursor">|</span>
