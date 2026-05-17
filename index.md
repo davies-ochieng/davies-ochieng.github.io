@@ -6,12 +6,6 @@ layout: single
 author_profile: true
 ---
 
----
-layout: single
-author_profile: true
-title: "Davies Ochieng"
----
-
 <h2 id="typing"></h2>
 
 <script>
