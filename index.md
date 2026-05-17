@@ -6,6 +6,30 @@ layout: single
 author_profile: true
 ---
 
+---
+layout: single
+author_profile: true
+title: "Davies Ochieng"
+---
+
+<h2 id="typing"></h2>
+
+<script>
+const text = "Welcome to my Portfolio";
+let i = 0;
+
+function typeWriter() {
+  if (i < text.length) {
+    document.getElementById("typing").innerHTML += text.charAt(i);
+    i++;
+    setTimeout(typeWriter, 70);
+  }
+}
+
+window.onload = typeWriter;
+</script>
+
+
 <h2 align="center" style=".typewriter { overflow: hidden; border-right: .15em solid orange; white-space: nowrap; width: 0; animation: typing 3.5s steps(30, end) forwards, blink-caret .75s step-end infinite; } @keyframes typing { from { width: 0 } to { width: 100% } } @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: orange; } }" >Welcome to my Portfolio</h2>
 
 Feel free to check around in the navigation bar to know more about my professional journey.
