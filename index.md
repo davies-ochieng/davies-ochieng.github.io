@@ -1,30 +1,49 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: true
+title: "Davies Ochieng"
+classes: wide
 ---
 
-<h2 id="typing"></h2>
+<div style="margin-top: 2rem;">
+  <h1>
+    <span id="typing"></span>
+    <span class="cursor">|</span>
+  </h1>
+</div>
 
-<script>
-const text = "Welcome to my Portfolio";
-let i = 0;
-
-function typeWriter() {
-  if (i < text.length) {
-    document.getElementById("typing").innerHTML += text.charAt(i);
-    i++;
-    setTimeout(typeWriter, 70);
-  }
+<style>
+.cursor {
+  animation: blink 0.8s infinite;
+  font-weight: bold;
 }
 
-window.onload = typeWriter;
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+
+  const text = "Welcome to my Portfolio";
+  let i = 0;
+
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typing").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 70);
+    }
+  }
+
+  typeWriter();
+
+});
 </script>
 
-
-<h2 align="center" style=".typewriter { overflow: hidden; border-right: .15em solid orange; white-space: nowrap; width: 0; animation: typing 3.5s steps(30, end) forwards, blink-caret .75s step-end infinite; } @keyframes typing { from { width: 0 } to { width: 100% } } @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: orange; } }" >Welcome to my Portfolio</h2>
 
 Feel free to check around in the navigation bar to know more about my professional journey.
 <h3> Brief description about me; </h3>
