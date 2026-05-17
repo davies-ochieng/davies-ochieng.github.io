@@ -5,7 +5,7 @@ title: ""
 classes: wide
 ---
 
-<div align="center">
+<div align="center" style="margin-left: 2rem;>
   <h1>
     <span id="typing"></span>
     <span class="cursor">|</span>
@@ -14,25 +14,15 @@ classes: wide
 
 <style>
 .cursor {
-  overflow: hidden; /* Hide text not yet "typed" */
-  border-right: .15em solid orange; /* The cursor */
-  white-space: nowrap; /* Keep text on one line */
-  width: 0;
-  animation: 
-    typing 3.5s steps(30, end) forwards,
-    blink-caret .75s step-end infinite;
+  animation: blink 0.8s infinite;
+  font-weight: bold;
 }
 
 @keyframes blink {
-  from { width: 0 }
-  to { width: 100% }
+  30% {
+    opacity: 0;
+  }
 }
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-
 </style>
 
 <script>
