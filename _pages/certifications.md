@@ -4,7 +4,7 @@ layout: single
 permalink: /certifications/
 ---
 
-## My Certifications
+<h2 align="center"> My Certifications </h2>
 
 ### Networking Certifications
 - CCNA ITN, SRWE, ESNA (Cisco)
