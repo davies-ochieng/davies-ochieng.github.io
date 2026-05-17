@@ -5,7 +5,7 @@ title: ""
 classes: wide
 ---
 
-<div align="center" style="margin-top: 2rem;">
+<div align="center">
   <h1>
     <span id="typing"></span>
     <span class="cursor">|</span>
@@ -19,7 +19,7 @@ classes: wide
 }
 
 @keyframes blink {
-  50% {
+  30% {
     opacity: 0;
   }
 }
