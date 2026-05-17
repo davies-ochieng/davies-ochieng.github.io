@@ -6,26 +6,7 @@ layout: single
 author_profile: true
 ---
 
-<h2 align="center" style=".typewriter {
-  overflow: hidden; /* Hide text not yet "typed" */
-  border-right: .15em solid orange; /* The cursor */
-  white-space: nowrap; /* Keep text on one line */
-  width: 0;
-  animation: 
-    typing 3.5s steps(30, end) forwards,
-    blink-caret .75s step-end infinite;
-}
-
-@keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
-}
-
-@keyframes blink-caret {
-  from, to { border-color: transparent }
-  50% { border-color: orange; }
-}
-" >Welcome to my Portfolio</h2>
+<h2 align="center" style=".typewriter { overflow: hidden; border-right: .15em solid orange; white-space: nowrap; width: 0; animation: typing 3.5s steps(30, end) forwards, blink-caret .75s step-end infinite; } @keyframes typing { from { width: 0 } to { width: 100% } } @keyframes blink-caret { from, to { border-color: transparent } 50% { border-color: orange; } }" >Welcome to my Portfolio</h2>
 
 Feel free to check around in the navigation bar to know more about my professional journey.
 <h3> Brief description about me; </h3>
