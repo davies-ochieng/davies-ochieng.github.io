@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 title: ""
-classes: wide
+classes:
 ---
 
 <div align="center" style="margin-left: -2rem;">
