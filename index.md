@@ -5,7 +5,7 @@ title: ""
 classes: wide
 ---
 
-<div align="center" style="margin-left: 2rem;">
+<div align="center" style="margin-left: -2rem;">
   <h1>
     <span id="typing"></span>
     <span class="cursor">|</span>
