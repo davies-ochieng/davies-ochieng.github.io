@@ -1,10 +1,4 @@
 ---
-title: "CCNA ITN Project"
-order: 1
-category: Networking
----
-
----
 title: "Enterprise Branch Office Network Deployment"
 excerpt: "Designed and deployed a small enterprise network using VLAN segmentation, inter-VLAN routing, DHCP services, and network security best practices."
 category: Networking
