@@ -4,22 +4,7 @@ order: 1
 category: Networking
 ---
 
-
----
-title: "Enterprise LAN Deployment with VLAN Segmentation and Router-on-a-Stick"
-excerpt: "Designed and implemented a multi-department enterprise LAN using VLANs, 802.1Q trunking, inter-VLAN routing, DHCP, SSH, and switch hardening."
-order: 1
-technologies:
-  - Cisco Packet Tracer
-  - Cisco IOS
-  - IPv4 Addressing
-  - VLANs
-  - Router-on-a-Stick
-  - DHCP
-  - SSH
----
-
-# Enterprise LAN Deployment
+<h1 align="center">  Enterprise LAN Deployment with VLAN Segmentation and Router-on-a-Stick </h1>
 
 ## Project Overview
 
