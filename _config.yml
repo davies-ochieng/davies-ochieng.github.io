@@ -121,5 +121,3 @@ collections:
   projects:
     output: true
     permalink: /_projects/:name/
-custom_css:
-  - /assets/images/css/custom.css
