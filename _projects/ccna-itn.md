@@ -48,6 +48,29 @@ The implementation demonstrates core networking concepts commonly used in enterp
 | VLAN 40 | Guest |
 | VLAN 99 | Management |
 
+<table>
+ <tr>
+  <td>VLAN 10</td>
+  <td>IT</td>
+ </tr>
+  <tr>
+  <td>VLAN 20</td>
+  <td>Finance</td>
+ </tr>
+  <tr>
+  <td>VLAN 30</td>
+  <td>HR</td>
+ </tr>
+  <tr>
+  <td>VLAN 40</td>
+  <td>Guest</td>
+ </tr>
+  <tr>
+  <td>VLAN 99</td>
+  <td>Management</td>
+ </tr>
+</table>
+
 The use of VLANs reduces unnecessary broadcast traffic and improves network organization.
 
 ---
