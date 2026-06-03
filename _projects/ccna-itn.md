@@ -8,16 +8,16 @@ category: Networking
 
 ---
 
-## Network Topology
-
-![Network Topology](/assets/images/projects/ITN-Topology.png)
-
----
-
 ## Project Overview
 
 This project simulates a small enterprise network consisting of multiple departments connected through a centralized routing infrastructure. The network was designed to provide secure communication between departments while maintaining logical separation using VLAN technology.
 The implementation demonstrates core networking concepts commonly used in enterprise environments, including network segmentation, dynamic IP address allocation, remote device management, and switch security.
+
+---
+
+## Network Topology
+
+![Network Topology](/assets/images/projects/ITN-Topology.png)
 
 ---
 
@@ -39,8 +39,8 @@ The implementation demonstrates core networking concepts commonly used in enterp
 
 ## Technologies Used
 
-| Technology | Purpose |
-|-----------------|-------------|
+| Technology  | Purpose  |
+|---------------|-----------|
 | Cisco Packet Tracer | Network simulation |
 | Cisco IOS | Device configuration |
 | IPv4 Addressing | Host addressing and subnetting |
@@ -55,8 +55,8 @@ The implementation demonstrates core networking concepts commonly used in enterp
 
 ## VLAN Design
 
-| VLAN | Department |
-|-----------|---------------|
+| VLAN  | Department  |
+|----------|-------------|
 | VLAN 10 | IT |
 | VLAN 20 | Finance |
 | VLAN 30 | HR |
