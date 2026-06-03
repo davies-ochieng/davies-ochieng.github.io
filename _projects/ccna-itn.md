@@ -6,10 +6,17 @@ category: Networking
 
 <h1 align="center">  Enterprise LAN Deployment with VLAN Segmentation and Router-on-a-Stick </h1>
 
+---
+
+## Network Topology
+
+![Network Topology](/assets/images/projects/ITN-Topology.png)
+
+---
+
 ## Project Overview
 
 This project simulates a small enterprise network consisting of multiple departments connected through a centralized routing infrastructure. The network was designed to provide secure communication between departments while maintaining logical separation using VLAN technology.
-
 The implementation demonstrates core networking concepts commonly used in enterprise environments, including network segmentation, dynamic IP address allocation, remote device management, and switch security.
 
 ---
@@ -33,7 +40,7 @@ The implementation demonstrates core networking concepts commonly used in enterp
 ## Technologies Used
 
 | Technology | Purpose |
-|------------|----------|
+|-----------------|-------------|
 | Cisco Packet Tracer | Network simulation |
 | Cisco IOS | Device configuration |
 | IPv4 Addressing | Host addressing and subnetting |
@@ -46,16 +53,10 @@ The implementation demonstrates core networking concepts commonly used in enterp
 
 ---
 
-## Network Topology
-
-![Network Topology](/assets/images/projects/ITN-Topology.png)
-
----
-
 ## VLAN Design
 
 | VLAN | Department |
-|--------|------------|
+|-----------|---------------|
 | VLAN 10 | IT |
 | VLAN 20 | Finance |
 | VLAN 30 | HR |
@@ -74,7 +75,6 @@ Subinterfaces were created for each VLAN and connected through a trunk link.
 
 ### Example
 
-```bash
 interface g0/0.10
  encapsulation dot1Q 10
  ip address 192.168.10.1 255.255.255.0
