@@ -49,9 +49,9 @@ toc_label: "Project Contents"
 | Link | Interface | IP Address |
 |--------|----------|----------|
 | R1 ↔ R2 | R1 G0/0 | 10.0.12.1/30 |
-| R1 ↔ R2 | R2 G0/1 | 10.0.12.2/30 |
+|         | R2 G0/1 | 10.0.12.2/30 |
 | R1 ↔ R3 | R1 G0/1 | 10.0.13.1/30 |
-| R1 ↔ R3 | R3 G0/1 | 10.0.13.2/30 |
+|         | R3 G0/1 | 10.0.13.2/30 |
 
 ---
 
@@ -63,3 +63,29 @@ toc_label: "Project Contents"
 router ospf 1
  network 10.0.12.0 0.0.0.3 area 0
  network 10.0.13.0 0.0.0.3 area 0
+```
+### R2 Configuration
+
+```cisco
+router ospf 1
+ network 10.0.12.0 0.0.0.3 area 0
+```
+### R3 Configuration
+
+```cisco
+router ospf 1
+ network 10.0.13.0 0.0.0.3 area 0
+```
+
+## ⚙️ Step 2: Convert to Multi-Area OSPF
+
+### AREA 10 (R2)
+```cisco
+router ospf 1
+ network 192.168.10.0 0.0.0.255 area 10
+```
+### AREA 20 (R3)
+```cisco
+router ospf 1
+ network 192.168.10.0 0.0.0.255 area 10
+```
