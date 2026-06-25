@@ -5,5 +5,7 @@ main:
     url: /certifications/
   - title: "Projects"
     url: /projects/
+  - title: "Articles"
+    url: /articles/
   - title: "Contact"
     url: /contact/
