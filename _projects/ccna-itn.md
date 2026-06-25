@@ -1,7 +1,7 @@
 ---
 title: "CCNA ITN Project"
 order: 1
-layout: single
+layout: splash
 category: Networking
 ---
 
