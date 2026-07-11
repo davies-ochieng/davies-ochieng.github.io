@@ -76,6 +76,10 @@ router ospf 1
 router ospf 1
  network 10.0.13.0 0.0.0.3 area 0
 ```
+### Verification Command
+<div align="center">
+  <img src="{{ '/assets/images/projects/OSPF2.png' | relative_url }}" alt="OSPF verify" width="900">
+</div>
 
 ## ⚙️ Step 2: Convert to Multi-Area OSPF
 
