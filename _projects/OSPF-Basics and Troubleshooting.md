@@ -76,7 +76,7 @@ router ospf 1
 router ospf 1
  network 10.0.13.0 0.0.0.3 area 0
 ```
-### Verification Command
+### Verification Command for R2 and R1
 <div align="center">
   <img src="{{ '/assets/images/projects/OSPF2.png' | relative_url }}" alt="OSPF verify" width="900">
 </div>
@@ -93,3 +93,7 @@ router ospf 1
 router ospf 1
  network 192.168.10.0 0.0.0.255 area 10
 ```
+### Verification Command for R2 and R3
+<div align="center">
+  <img src="{{ '/assets/images/projects/OSPF3.png' | relative_url }}" alt="OSPF verify" width="900">
+</div>
