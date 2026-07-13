@@ -97,3 +97,9 @@ router ospf 1
 <div align="center">
   <img src="{{ '/assets/images/projects/OSPF3.png' | relative_url }}" alt="OSPF verify" width="900">
 </div>
+
+## ⚙️ Step 3: Configure Passive Interfaces
+To prevent unnecessary OSPF hellos towards PCs, we can configure passive interfaces for the routers as observed in the images
+<div align="center">
+  <img src="{{ '/assets/images/projects/OSPF4.png' | relative_url }}" alt="OSPF verify" width="900">
+</div>
