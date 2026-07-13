@@ -132,7 +132,7 @@ To verify run _show ip route_ on either R2 or R3 and you should see "O*E2 0.0.0.
 
 ### Single-Area OSPF vs Multi-Area OSPF
 | Feature | Single-area OSPF | Multi-area OSPF |
-|------------------------|------------------------|------------------------|
+|--------|--------|--------|
 | **Design complexity** | Low | High |
 | **LSDB size** | Large | Small (per area) |
 | **SPF calculations** | Global | Localized |
